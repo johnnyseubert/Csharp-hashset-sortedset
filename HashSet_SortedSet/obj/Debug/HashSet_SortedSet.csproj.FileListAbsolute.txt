@@ -1,0 +1,7 @@
+C:\Users\Data53454\Desktop\C#\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\HashSet_SortedSet.exe
+C:\Users\Data53454\Desktop\C#\HashSet_SortedSet\HashSet_SortedSet\bin\Debug\HashSet_SortedSet.pdb
+C:\Users\Data53454\Desktop\C#\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\HashSet_SortedSet.csproj.AssemblyReference.cache
+C:\Users\Data53454\Desktop\C#\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\HashSet_SortedSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Data53454\Desktop\C#\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\HashSet_SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Data53454\Desktop\C#\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\HashSet_SortedSet.exe
+C:\Users\Data53454\Desktop\C#\HashSet_SortedSet\HashSet_SortedSet\obj\Debug\HashSet_SortedSet.pdb
